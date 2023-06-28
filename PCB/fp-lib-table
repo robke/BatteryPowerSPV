@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name spv1050)(type KiCad)(uri ${KIPRJMOD}/libs/spv1050.pretty)(options "")(descr ""))
+)

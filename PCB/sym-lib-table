@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name spv1050)(type Legacy)(uri ${KIPRJMOD}/libs/spv1050/spv1050.lib)(options "")(descr ""))
+  (lib (name ATTiny424)(type Legacy)(uri ${KIPRJMOD}/libs/ATTiny424/ATTiny424.lib)(options "")(descr ""))
+  (lib (name 8205A)(type Legacy)(uri ${KIPRJMOD}/libs/8205A/8205A.lib)(options "")(descr ""))
+  (lib (name DW01-P)(type Legacy)(uri ${KIPRJMOD}/libs/DW01-P/DW01-P.lib)(options "")(descr ""))
+  (lib (name DS2782)(type Legacy)(uri ${KIPRJMOD}/libs/DS2782/DS2782.lib)(options "")(descr ""))
+  (lib (name DS2780)(type Legacy)(uri ${KIPRJMOD}/libs/DS2780/DS2780.lib)(options "")(descr ""))
+  (lib (name DS2756)(type Legacy)(uri ${KIPRJMOD}/libs/DS2756/DS2756.lib)(options "")(descr ""))
+)
